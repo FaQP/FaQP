@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames programmation
 - 🌱 I’m currently learning JS, Python, MySQL, GDScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: facundopietra01@gmail.com
 
 <!---
 FaQP/FaQP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
