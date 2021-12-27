@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaQP
 - 👀 I’m interested in videogames programmation
 - 🌱 I’m currently learning JS, Python, MySQL, GDScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any programming project
 - 📫 How to reach me: facundopietra01@gmail.com
 
 <!---
